@@ -6,12 +6,14 @@ ver 0.3.8
 Written by Jinkyo Han, OST, SNU NAOE
 
 38jinkyo@snu.ac.kr
+
 Supervised by Do Kyun Kim, OST, SNU NAOE
 
-Untitled.jpg
-
 contact OST here
-¬ Copyright (c) 2023 Jinkyo Han
+
+https://ost.snu.ac.kr/
+
+Copyright (c) 2023 Jinkyo Han
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
